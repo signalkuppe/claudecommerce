@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1777538604332,
+      "tag": "0000_wonderful_mulholland_black",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1777540425886,
+      "tag": "0001_open_starhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1777600000000,
+      "tag": "0002_product_variant_split",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1777700000000,
+      "tag": "0003_published_field",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1777800000000,
+      "tag": "0004_site_settings",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1777900000000,
+      "tag": "0005_variant_stock",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1778000000000,
+      "tag": "0006_product_variant_options",
+      "breakpoints": true
+    }
+  ]
+}
